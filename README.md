@@ -1,10 +1,12 @@
 # netflix-clone
 
-This template should help get you started developing with Vue 3 in Vite.
+- This template should help get you started developing with Vue 3 in Vite.
+- Project is in the subfolder netflix-clone
 
 # RoadMap
 - Setup the project using vite, vue, tailwind, vue-material, vue-carousel
 - Downloading the images and videos
+- Added the first video
 
 ## Recommended IDE Setup
 
