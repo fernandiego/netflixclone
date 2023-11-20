@@ -7,6 +7,12 @@
 - Setup the project using vite, vue, tailwind, vue-material, vue-carousel
 - Downloading the images and videos
 - Added the first video
+- Icons on the side
+- Description of the movie video
+- Gridlist of films
+- Adjusts in the layout
+- Navigation page
+- Project done, cloning netflix
 
 ## Recommended IDE Setup
 
